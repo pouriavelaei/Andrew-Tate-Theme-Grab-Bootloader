@@ -14,13 +14,8 @@ Clone the repository using:
 git clone https://github.com/pouriavelaei/Andrew-Tate-Theme-Grab-Bootloader.git
 ```
 
-Alternatively, download it using `curl` or `wget`:
-```bash
-curl -LO https://github.com/pouriavelaei/Andrew-Tate-Theme-Grab-Bootloader/archive/refs/heads/main.zip
-```
-```bash
-wget https://github.com/pouriavelaei/Andrew-Tate-Theme-Grab-Bootloader/archive/refs/heads/main.zip
-```
+
+
 
 ## 🚀 Installation
 To install, run the following command in the terminal:
